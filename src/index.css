@@ -1,0 +1,29 @@
+
+@import url('https://fonts.google.com/specimen/Libre+Franklin');
+@import "tailwindcss";
+
+
+@theme {
+
+ --color-Blue-500: hsl(223, 87%, 63%);
+ --color-Blue-200: hsl(223, 100%, 88%);
+ --color-Red-400: hsl(354, 100%, 66%); 
+ --color-Gray-400: hsl(0, 0%, 59%);
+ --color-Blue-950: hsl(209, 33%, 12%);
+}
+
+@theme{
+  --font-toñin: 'Libre Franklin', sans-serif;
+  --font-family-base: 'Libre Franklin';
+  --font-size-base: 16px;
+}
+
+  @theme{
+    
+  }
+/*
+### Fonts
+
+- Family: [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)
+- Weights: 300, 600, 700
+*/
