@@ -20,15 +20,14 @@ Una aplicación ligera de tablero (dashboard) enfocada en mostrar métricas, est
 
 ## 🛠 Tecnologías utilizadas
 
-- HTML / CSS / JavaScript (o el framework que hayas usado: React, Vue, etc.)
-- Librerías de gráficos (Chart.js, D3.js, Recharts, etc.) — si aplica
-- Tailwind CSS / Bootstrap / estilos propios
+- ( React, TypeScript, etc.)
+- Tailwind CSS  
 - Netlify para despliegue continuo
+- Autenticación de usuario (login / roles)
 
+Actualización en tiempo real vía WebSockets
 ---
  
 <img width="1440" height="1024" alt="image" src="https://github.com/user-attachments/assets/a97505c0-381c-4476-9157-0883f7365b90" />
-
-
 
  
