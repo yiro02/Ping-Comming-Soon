@@ -20,7 +20,7 @@ Una aplicación ligera de tablero (dashboard) enfocada en mostrar métricas, est
 
 ## 🛠 Tecnologías utilizadas
 
-- ( React, TypeScript, etc.)
+- ( React, TypeScript, Vite.)
 - Tailwind CSS  
 - Netlify para despliegue continuo
 - Autenticación de usuario (login / roles)
